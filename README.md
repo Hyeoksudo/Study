@@ -1,2 +1,2 @@
 # Study
-공부한 내용들
+Code Squad에서 공부한 내용들!
